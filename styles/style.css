@@ -41,6 +41,7 @@ body{
   width: 450px;
   height: 400px;
   border-radius: 10px;
+  box-shadow:0px 2px 5px 2px hsl(154, 4%, 66%);
  
 }
 
