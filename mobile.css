@@ -1,6 +1,6 @@
 
   body{
-    background: hsl(0, 100%, 74%) url(../Images/bg-intro-mobile.png) no-repeat center center/cover;
+    background: hsl(0, 100%, 74%) url(bg-intro-mobile.png) no-repeat center center/cover;
     height: 100vh;
     font-family: "Poppins";
   
